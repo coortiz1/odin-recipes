@@ -1,0 +1,13 @@
+.title{
+    font-size: 75px;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    background-color:bisque;
+    color:blue;
+}
+
+.recipes{
+    font-size:45px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:azure;
+}
